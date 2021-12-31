@@ -1,0 +1,439 @@
+object		{2}
+		
+status	:	success
+		
+	data		{1}
+		
+	rooms		[18]
+		
+	0		{11}
+		
+roomid	:	1
+		
+contact	:	0195552235
+		
+title	:	Middle Room at Kiara Residence 2
+		
+description	:	Prefer move-in immediately, 6 month, 12 month and above, Malaysian, Student, Employed,
+		
+price	:	650
+		
+deposit	:	300
+		
+state	:	Kuala Lumpur
+		
+area	:	Mount Kiara
+		
+date_created	:	2021-12-18 23:14:50.274910
+		
+latitude	:	3.170305
+		
+longitude	:	101.682689
+		
+	1		{11}
+		
+roomid	:	2
+		
+contact	:	0128555556
+		
+title	:	Main Room at SuriaMas
+		
+description	:	Prefer move-in immediately, 6 month, 12 month and above, Malaysian, Student, Employed,
+		
+price	:	300
+		
+deposit	:	300
+		
+state	:	Kuala Lumpur
+		
+area	:	Old Klang Road
+		
+date_created	:	2021-12-01 13:14:50.274910
+		
+latitude	:	3.168653
+		
+longitude	:	101.702979
+		
+	2		{11}
+		
+roomid	:	3
+		
+contact	:	0145552235
+		
+title	:	Regalia Rooftop
+		
+description	:	6 month, 6 month, 12 month and above, Student, Employed, Unemployed, Malay, Chinese, Indian, Single Female, Prefer Zero Deposit
+		
+price	:	800
+		
+deposit	:	0
+		
+state	:	Kuala Lumpur
+		
+area	:	Putra
+		
+date_created	:	2021-12-18 23:14:50.274910
+		
+latitude	:	3.181217
+		
+longitude	:	101.740423
+		
+	3		{11}
+		
+roomid	:	4
+		
+contact	:	0198887756
+		
+title	:	Middle Room TTDI
+		
+description	:	Prefer move-in immediately, 6 month, 12 month and above, Malaysian, Student, Employed
+		
+price	:	450
+		
+deposit	:	0
+		
+state	:	Kuala Lumpur
+		
+area	:	TTDI
+		
+date_created	:	2021-12-08 05:14:50.274910
+		
+latitude	:	3.209483
+		
+longitude	:	101.714846
+		
+	4		{11}
+		
+roomid	:	5
+		
+contact	:	0174445525
+		
+title	:	Middle Room for rent Cheras
+		
+description	:	6 month, 6 month, 12 month and above, Student, Employed, Unemployed, Malay, Chinese, Indian, Other
+		
+price	:	450
+		
+deposit	:	250
+		
+state	:	Kuala Lumpur
+		
+area	:	Cheras
+		
+date_created	:	2021-11-24 19:14:50.274910
+		
+latitude	:	3.107568
+		
+longitude	:	101.735550
+		
+	5		{11}
+		
+roomid	:	6
+		
+contact	:	0185554477
+		
+title	:	Middle Room
+		
+description	:	Air-Conditioning, Wifi / Internet Access, Cooking Allowed, Near MRT, Near Bus stop, Playground, Surau, Mini Market
+		
+price	:	500
+		
+deposit	:	500
+		
+state	:	Kuala Lumpur
+		
+area	:	TTDI
+		
+date_created	:	2021-12-18 08:14:50.274910
+		
+latitude	:	3.1386972
+		
+longitude	:	101.629095
+		
+	6		{11}
+		
+roomid	:	7
+		
+contact	:	0183335588
+		
+title	:	Back Room Taman Mutiara
+		
+description	:	Air-Conditioning, Washing Machine, Wifi / Internet Access, Cooking Allowed, Share Bathroom, Near MRT
+		
+price	:	350
+		
+deposit	:	500
+		
+state	:	Kuala Lumpur
+		
+area	:	Cheras
+		
+date_created	:	2021-12-01 17:18:50.274910
+		
+latitude	:	3.110026
+		
+longitude	:	101.722649
+		
+	7		{11}
+		
+roomid	:	8
+		
+contact	:	0124445773
+		
+title	:	Middle Room Private Bathroom
+		
+description	:	Air-Conditioning, Wifi / Internet Access, Near Bus stop
+		
+price	:	550
+		
+deposit	:	500
+		
+state	:	Kuala Lumpur
+		
+area	:	Sri Petaling
+		
+date_created	:	2021-12-08 23:14:50.274910
+		
+latitude	:	3.071663
+		
+longitude	:	101.682425
+		
+	8		{11}
+		
+roomid	:	9
+		
+contact	:	0135558889
+		
+title	:	Master Room
+		
+description	:	Air-Conditioning, Washing Machine, Wifi / Internet Access, Private Bathroom, Near KTM / LRT, Near KTM, Near MRT, Near Bus stop, 24 hours security, Covered car park, Mini Market
+		
+price	:	950
+		
+deposit	:	1500
+		
+state	:	Kuala Lumpur
+		
+area	:	Chow Kit
+		
+date_created	:	2021-12-15 23:14:50.274910
+		
+latitude	:	3.164500
+		
+longitude	:	101.694336
+		
+	9		{11}
+		
+roomid	:	10
+		
+contact	:	0112225558
+		
+title	:	Medium Room Taman Mutiara
+		
+description	:	Air-Conditioning, Washing Machine, Wifi / Internet Access, Cooking Allowed, Share Bathroom, Near MRT, Near Bus stop
+		
+price	:	550
+		
+deposit	:	550
+		
+state	:	Kuala Lumpur
+		
+area	:	Cheras
+		
+date_created	:	2021-12-16 08:14:50.274910
+		
+latitude	:	3.110049
+		
+longitude	:	101.728714
+		
+	10		{11}
+		
+roomid	:	11
+		
+contact	:	0145556663
+		
+title	:	Middle Room Menara LGB
+		
+description	:	Air-Conditioning, Washing Machine, Wifi / Internet Access, Cooking Allowed, Share Bathroom, Near MRT, Near Bus stop, Mini Market
+		
+price	:	550
+		
+deposit	:	0
+		
+state	:	Kuala Lumpur
+		
+area	:	TTDI
+		
+date_created	:	2021-12-09 15:14:50.274910
+		
+latitude	:	3.147197
+		
+longitude	:	101.630258
+		
+	11		{11}
+		
+roomid	:	12
+		
+contact	:	0184477566
+		
+title	:	Back Room MRT Maluri
+		
+description	:	Air-Conditioning, Wifi / Internet Access, Cooking Allowed, Near MRT, Near Bus stop
+		
+price	:	450
+		
+deposit	:	0
+		
+state	:	Kuala Lumpur
+		
+area	:	Taman Maluri
+		
+date_created	:	2021-11-15 11:42:50.274910
+		
+latitude	:	3.139345
+		
+longitude	:	101.731769
+		
+	12		{11}
+		
+roomid	:	13
+		
+contact	:	0177755595
+		
+title	:	Medium Room Bangsar
+		
+description	:	Air-Conditioning, Washing Machine, Wifi / Internet Access, Cooking Allowed, Near LRT, Near Bus stop, Playground, Surau
+		
+price	:	650
+		
+deposit	:	650
+		
+state	:	Kuala Lumpur
+		
+area	:	Bangsar
+		
+date_created	:	2021-12-18 04:14:50.274910
+		
+latitude	:	3.131324
+		
+longitude	:	101.674720
+		
+	13		{11}
+		
+roomid	:	14
+		
+contact	:	0133332226
+		
+title	:	Middle Room Pavilion
+		
+description	:	Washing Machine, Cooking Allowed, Share Bathroom, Near LRT, 24 hours security
+		
+price	:	560
+		
+deposit	:	560
+		
+state	:	Kuala Lumpur
+		
+area	:	Bukit Jalil
+		
+date_created	:	2021-12-03 04:14:50.274910
+		
+latitude	:	3.055040
+		
+longitude	:	101.673715
+		
+	14		{11}
+		
+roomid	:	15
+		
+contact	:	0177788856
+		
+title	:	Regalia Residence
+		
+description	:	Air-Conditioning, Wifi / Internet Access, Cooking Allowed, Near LRT, Near Bus stop, Playground, Surau
+		
+price	:	650
+		
+deposit	:	0
+		
+state	:	Kuala Lumpur
+		
+area	:	Putra
+		
+date_created	:	2021-11-11 17:14:50.274910
+		
+latitude	:	3.160091
+		
+longitude	:	101.689358
+		
+	15		{11}
+		
+roomid	:	17
+		
+contact	:	0194445564
+		
+title	:	Fully Equipped Room
+		
+description	:	Easy Access to LRT
+		
+price	:	650
+		
+deposit	:	350
+		
+state	:	Kuala Lumpur
+		
+area	:	TTDI
+		
+date_created	:	2021-12-22 13:41:38.986914
+		
+latitude	:	
+		
+longitude	:	
+		
+	16		{11}
+		
+roomid	:	18
+		
+contact	:	0193344566
+		
+title	:	Small room half equipped
+		
+description	:	Near LRT station, near basic amenities
+		
+price	:	500
+		
+deposit	:	600
+		
+state	:	Kuala Lumpur
+		
+area	:	Cheras
+		
+date_created	:	2021-12-22 13:49:30.505149
+		
+latitude	:	
+		
+longitude	:	
+		
+	17		{11}
+		
+roomid	:	19
+		
+contact	:	0195573344
+		
+title	:	Taman Tun Teja
+		
+description	:	Berhampiran LRT dan masjid
+		
+price	:	500
+		
+deposit	:	250
+		
+state	:	Kuala Lumpur
+		
+area	:	Cheras
+		
+date_created	:	2021-12-22 19:12:52.498885
+		
+latitude	:	
+		
+longitude	:	
